@@ -1,7 +1,7 @@
 # Exploratory-Data-Analysis-EDA-
 Exploratory Data Analysis (EDA) is a crucial step in the data analysis process that focuses on understanding the underlying structure and patterns of a dataset. EDA helps to identify trends, relationships, anomalies, or any initial insights that could inform the next steps in a data science or machine learning project.
 
-##### Conducted EDA on a employees dataset with 1000 rows and 8 cloumns,columns like First Name, Gender, Start Date, Last Login Time, Salary, Bonus %, Senior Management, Team.
+ Conducted EDA on a employees dataset with 1000 rows and 8 cloumns,columns like First Name, Gender, Start Date, Last Login Time, Salary, Bonus %, Senior Management, Team.
 
 ### Tools & Libraries used
 Programming Language: Python

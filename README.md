@@ -4,9 +4,9 @@ Exploratory Data Analysis (EDA) is a crucial step in the data analysis process t
  Conducted EDA on a employees dataset with 1000 rows and 8 cloumns,columns like First Name, Gender, Start Date, Last Login Time, Salary, Bonus %, Senior Management, Team.
 
 ### Tools & Libraries used
-Programming Language: Python
+> Programming Language: Python
 
-Libraries: Pandas,Numpy,Matplotlib,Seaborn
+> Libraries: Pandas,Numpy,Matplotlib,Seaborn
 
 ### Steps in EDA include
 > Understanding the data size,column name,cloumn data types & summary statistics, checked for missing data fixed it by filling or removing with average imputation or by droping.
